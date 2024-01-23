@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wallpix
-- 👀 I’m interested in Python, RestAPI, Ansible, NetMiko, Infoblox
+- 👀 I’m interested in Python, RestAPI, Ansible, NetMiko, Infoblox, Fortinet, Cisco, Meraki, Entrust, etc.
 - 🌱 I’m currently working with Ansible Automation and Python Apps
 - 💞️ I’m not really looking to collaborate on anything
 - 📫 Reach me via GitHub messages
